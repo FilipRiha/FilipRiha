@@ -5,7 +5,7 @@
 
 - 📫 Jak mě kontaktovat **filipriha446@gmail.com**
 
-< h3 align="left">Spojte se se mnou:</h3>
+
 <p align="left">
 <a href="https://fb.com/filip řiha" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="filip řiha" height="30" width="40" /><
 <a href="https://instagram.com/filip.riha.395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/instagram.svg" alt="filip.riha.395" height="30" width="40" /></a>
